@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomCalendar</string>
+    <string name="add_event">Add Event</string>
+    <string name="events_addition">" - Events"</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
